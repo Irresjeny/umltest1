@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T08:02:45.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="wR-eWJqu5OJk_DAEfPsQ" version="15.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-20T08:09:45.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="8x0X9QOocbFuU4ciLFz3" version="15.2.1" type="github">
   <diagram id="ABbckw2yCRMAL89OUu5k" name="Page-1">
     <mxGraphModel dx="981" dy="2202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1912,13 +1912,13 @@
         </mxCell>
         <mxCell id="OuAi9nY87VpoR65qwJgn-356" value="" style="endArrow=none;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OuAi9nY87VpoR65qwJgn-361">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1442.0000000000005" y="-360" as="sourcePoint" />
+            <mxPoint x="1440" y="-280" as="sourcePoint" />
             <mxPoint x="1243.0100000000002" y="-440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OuAi9nY87VpoR65qwJgn-357" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="OuAi9nY87VpoR65qwJgn-360">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1522.0000000000005" y="-360" as="sourcePoint" />
+            <mxPoint x="1522" y="-280" as="sourcePoint" />
             <mxPoint x="1285.6000000000004" y="-440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1994,11 +1994,11 @@
         <mxCell id="OuAi9nY87VpoR65qwJgn-377" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1960.5" y="-480" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OuAi9nY87VpoR65qwJgn-378" value="Создание и настройка сервера" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1721.5" y="-426" width="78.5" height="40" as="geometry" />
+        <mxCell id="OuAi9nY87VpoR65qwJgn-378" value="Создание и настройка&lt;br&gt;удаленного сервера" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1721.25" y="-441" width="68.75" height="86" as="geometry" />
         </mxCell>
         <mxCell id="OuAi9nY87VpoR65qwJgn-379" value="Обработчик запросов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1819.67" y="-426" width="180.33" height="40" as="geometry" />
+          <mxGeometry x="1800" y="-426" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OuAi9nY87VpoR65qwJgn-380" value="База данных" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1360.58" y="-560" width="319.42" height="40" as="geometry" />
@@ -2010,10 +2010,22 @@
           <mxGeometry x="1200" y="-1040" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OuAi9nY87VpoR65qwJgn-383" value="Создание полей" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1363.1599999999999" y="-426" width="78.42" height="40" as="geometry" />
+          <mxGeometry x="1415.58" y="-355" width="78.42" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OuAi9nY87VpoR65qwJgn-384" value="Создание зависимостей" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1452.75" y="-426" width="78.42" height="40" as="geometry" />
+          <mxGeometry x="1510" y="-440" width="79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OuAi9nY87VpoR65qwJgn-385" value="Нормализация" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1509" y="-400" width="92.17" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OuAi9nY87VpoR65qwJgn-386" value="Создание таблиц&lt;br&gt;пользователей,&lt;br&gt;заданий,&lt;br&gt;материалов,&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1413" y="-445" width="97" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OuAi9nY87VpoR65qwJgn-387" value="Создание процедур" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1601.1699999999998" y="-440" width="84.19" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OuAi9nY87VpoR65qwJgn-390" value="Создание схемы бд" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="-445" width="53" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
